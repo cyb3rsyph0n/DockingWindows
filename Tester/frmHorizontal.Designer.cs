@@ -46,14 +46,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BorderStyle = System.Windows.Forms.Border3DStyle.Bump;
             this.ClientSize = new System.Drawing.Size(470, 123);
             this.ControlBox = false;
             this.Controls.Add(this.button1);
             this.DockingPosition = DockingWindows.DockableWindow.DockingPositions.TopExterior;
-            this.DropShadow = true;
             this.MaintainAspectRatio = true;
-            this.ModalOpacity = 10;
+            this.ModalOpacity = 10D;
             this.ModalOverlayColor = System.Drawing.Color.Black;
             this.Name = "frmHorizontal";
             this.Padding = new System.Windows.Forms.Padding(10);

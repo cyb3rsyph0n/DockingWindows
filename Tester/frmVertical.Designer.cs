@@ -45,11 +45,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BorderStyle = System.Windows.Forms.Border3DStyle.Bump;
             this.ClientSize = new System.Drawing.Size(120, 366);
             this.Controls.Add(this.button1);
             this.DockingPosition = DockingWindows.DockableWindow.DockingPositions.RightInterior;
-            this.DropShadow = true;
             this.Name = "frmVertical";
             this.Padding = new System.Windows.Forms.Padding(10);
             this.Text = "Form3";
